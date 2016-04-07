@@ -10,3 +10,8 @@
 ## protected关键字
 通过protected方法来控制类的继承者的访问权限
 
+
+## Arraylist与Linkedlist的区别
+ArrayList 采用的是数组形式来保存对象的，这种方式将对象放在连续的位置中，所以最大的缺点就是插入删除时非常麻烦，优点是查询速度快
+LinkedList 采用的将对象存放在独立的空间中，而且在每个空间中还保存下一个链接的索引  但是缺点就是查找非常麻烦 要丛第一个索引开始，有点是插入删除快
+http://www.cnblogs.com/mgod/archive/2007/08/05/844011.html
